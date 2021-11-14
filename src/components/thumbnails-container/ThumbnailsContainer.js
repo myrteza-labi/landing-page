@@ -1,5 +1,6 @@
 import React from 'react'
 import './ThumbnailsContainer.css'; 
+import Thumbnail from './Thumbnail'; 
 
 function ThumbnailsContainer() {
     return (

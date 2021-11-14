@@ -1,5 +1,6 @@
 import React from 'react'
 import './FooterMenu.css'; 
+import Tag from '../Tag'; 
 
 function FooterMenu() {
     return (
